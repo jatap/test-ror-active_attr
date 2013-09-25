@@ -1,3 +1,29 @@
+commit 44515e9c805767e37932fb7969e1bb4c7debe1a7
+Merge: 4a92951 ab5fba6
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 25 23:53:57 2013 +0200
+
+    - Merge branch 'feature-rspec-in-travis' into develop
+
+commit ab5fba60053b1e12dc02d892daddc38eaad8262a
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 25 23:53:49 2013 +0200
+
+    - Add travis rspec configuration file.
+
+commit 4a92951042a0d996e66e2dbf60dff6c68f726d46
+Merge: 7029f21 54bdb7c
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 25 23:35:47 2013 +0200
+
+    - Merge branch 'release-1.0.0' into develop
+
+commit 54bdb7c32898d92cbf82a15de1c931815dc7c163
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Wed Sep 25 23:35:13 2013 +0200
+
+    - Bumped to version 1.0.0.
+
 commit 7029f214dfc80c4f0313ac13e2dc948f0a9cc248
 Merge: 3b3ee11 7961f2b
 Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>

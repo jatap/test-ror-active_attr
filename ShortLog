@@ -1,5 +1,9 @@
-Julio Antúnez Tarín (3):
+Julio Antúnez Tarín (7):
       - First groupped commit.
       - Add travis configuration file.
       - Merge branch 'feature-travis' into develop
+      - Bumped to version 1.0.0.
+      - Merge branch 'release-1.0.0' into develop
+      - Add travis rspec configuration file.
+      - Merge branch 'feature-rspec-in-travis' into develop
 
