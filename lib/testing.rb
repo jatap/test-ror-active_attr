@@ -1,3 +1,4 @@
+# encoding: utf-8
 # Person
 #
 # @author julio.antunez.tarin@gmail.com
@@ -113,4 +114,3 @@ class Keyboard
   attribute :brand
   attribute :country
 end
-

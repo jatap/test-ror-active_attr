@@ -1,3 +1,4 @@
+# encoding: utf-8
 FactoryGirl.define do
   factory :people, class: 'Person' do
     first_name  'John'
